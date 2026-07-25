@@ -1,344 +1,155 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:06b6d4,100:3b82f6&height=250&section=header&text=Vishal%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0000,50:8B0000,100:FF0000&height=220&section=header&text=Vishal%20R&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst&descAlignY=58&descSize=20" width="100%"/>
 
-<h1 style="color:#38BDF8;">
-Aspiring Data Analyst
-</h1>
+<br/>
 
-<p>
-Turning Data into Insights, Insights into Impact.
+<img src="https://komarev.com/ghpvc/?username=Vishalravi-2007&label=Profile%20Views&color=ff0000&style=for-the-badge" alt="Profile Views"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=FF3B3B&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Python+Developer;SQL+Enthusiast;Power+BI+Learner;Tableau+Learner" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge" width="1"/>
+
+</div>
+
+<table align="center" width="100%" style="border:none; border-collapse:collapse;">
+<tr>
+<td style="background-color:#0A0A0A; border:1px solid #FF0000; border-radius:12px; padding:25px;">
+
+<div align="center">
+
+## 🧑‍💻 About Me
+
+<p align="center" style="color:#EAEAEA; font-size:16px; line-height:1.8;">
+🔴&nbsp; Passionate about <b style="color:#FF4C4C;">Data Analytics</b> and <b style="color:#FF4C4C;">Business Intelligence</b><br/>
+🔴&nbsp; Interested in solving <b style="color:#FF4C4C;">real-world problems</b> using data<br/>
+🔴&nbsp; Continuously <b style="color:#FF4C4C;">learning</b> and improving my technical skills<br/>
+🔴&nbsp; Looking for opportunities in <b style="color:#FF4C4C;">Data Analytics projects, Internships</b> &amp; <b style="color:#FF4C4C;">Open-Source contributions</b>
 </p>
 
 </div>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;Python+Developer;SQL+Enthusiast;Power+BI+Learner;Tableau+Learner"/>
-
-</div>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
-</div>
-
----
-
-# 👋 About Me
-
-```html
-<div style="background:#111827;padding:20px;border-radius:15px;border:2px solid #38BDF8;">
-
-<h3>Hi, I'm Vishal R 👋</h3>
-
-<p>
-
-📊 Passionate about Data Analytics and Business Intelligence.
-
-📈 Interested in solving real-world problems using data.
-
-💡 Continuously learning new technologies.
-
-🚀 Looking for internships, projects and opportunities.
-
-🎯 Goal: Become a Professional Data Analyst.
-
-</p>
-
-</div>
-```
-
----
-
-# 🚀 Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
-</div>
-
----
-
-# 🌟 Goals for 2026
-
-✅ Master SQL
-
-✅ Become an Expert in Excel
-
-✅ Learn Power BI
-
-✅ Learn Tableau
-
-✅ Build Real-World Data Analytics Projects
-
-✅ Complete Data Analyst Portfolio
-
-✅ Contribute to Open Source
-
-✅ Secure a Data Analytics Internship
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<table align="center">
-<tr>
-
-<td width="50%">
-
-### 📊 Data Analytics Dashboard
-
-- 📈 Power BI Dashboard
-- 📊 Interactive Visualizations
-- 📂 Business Insights
-- 🔗 Coming Soon...
-
 </td>
-
-<td width="50%">
-
-### 🐍 Python Data Analysis
-
-- 🐍 Python
-- 📄 Pandas
-- 📊 Matplotlib
-- 🔗 Coming Soon...
-
-</td>
-
 </tr>
-
-<tr>
-
-<td width="50%">
-
-### 💾 SQL Project
-
-- 🗄️ Database Design
-- 📋 SQL Queries
-- 📈 Data Reports
-- 🔗 Coming Soon...
-
-</td>
-
-<td width="50%">
-
-### 📑 Excel Dashboard
-
-- 📊 Pivot Tables
-- 📉 Charts
-- 📋 KPI Dashboard
-- 🔗 Coming Soon...
-
-</td>
-
-</tr>
-
 </table>
 
----
-
-# 📚 Currently Working On
-
-🌱 Learning **Power BI**
-
-🌱 Learning **Tableau**
-
-🌱 Improving **SQL**
-
-🌱 Exploring **Data Analytics Projects**
-
-🌱 Strengthening **Python for Data Analysis**
-
----
-
-# 💡 My Learning Journey
-
-```text
-C            ██████████ 100%
-
-Python       ████████░░ 80%
-
-Java         ███████░░░ 70%
-
-SQL          ████████░░ 80%
-
-Excel        █████████░ 90%
-
-Power BI     ████░░░░░░ 40%
-
-Tableau      ███░░░░░░░ 30%
-```
-
----
+<br/>
 
 <div align="center">
 
-### ⭐ "Every dataset tells a story. My goal is to discover it."
+## 🛠️ Tech Stack
+
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FF0000&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=FF0000&labelColor=000000"/>
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=FF0000&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=FF0000&labelColor=000000"/>
 
 </div>
 
----
-
-# 🎯 Roadmap 2026
+<br/>
 
 <div align="center">
 
-| Goal | Progress |
-|:-----|:--------:|
-| 🟢 Master SQL | ████████░░ 80% |
-| 🟢 Advanced Excel | █████████░ 90% |
-| 🟡 Learn Power BI | █████░░░░░ 50% |
-| 🟡 Learn Tableau | ████░░░░░░ 40% |
-| 🔵 Build Data Analytics Projects | ███░░░░░░░ 30% |
-| 🔵 Complete Portfolio | ███░░░░░░░ 30% |
-| 🟣 Open Source Contributions | ██░░░░░░░░ 20% |
-| 🔴 Data Analyst Internship | █░░░░░░░░░ 10% |
+## 📚 Currently Learning
+
+<img src="https://img.shields.io/badge/Power_BI-1A0000?style=for-the-badge&logo=powerbi&logoColor=FF3B3B&labelColor=1A0000"/>
+<img src="https://img.shields.io/badge/Tableau-1A0000?style=for-the-badge&logo=tableau&logoColor=FF3B3B&labelColor=1A0000"/>
 
 </div>
 
----
-
-# 💻 Tools & Technologies
+<br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,python,mysql,git,github,vscode"/>
+## 📊 GitHub Analytics
 
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Vishalravi-2007&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=FF3B3B&icon_color=FF0000&text_color=EAEAEA&border_radius=12" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalravi-2007&hide_border=true&background=0A0A0A&stroke=FF0000&ring=FF0000&fire=FF3B3B&currStreakLabel=FF3B3B&sideLabels=EAEAEA&dates=8A8A8A&border_radius=12" width="48%"/>
 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<br/>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalravi-2007&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FF3B3B&text_color=EAEAEA&border_radius=12" width="48%"/>
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishalravi-2007&bg_color=0A0A0A&color=FF3B3B&line=FF0000&point=FFFFFF&area=true&hide_border=true&border_radius=12" width="90%"/>
 
 </div>
 
----
-
-# 📈 Contribution Snake
+<br/>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td align="center" style="background-color:#0A0A0A; border:1px solid #FF0000; border-radius:12px; padding:20px; width:280px;">
+<b style="color:#FF3B3B;">📊 Project Placeholder 1</b><br/><br/>
+<span style="color:#CCCCCC; font-size:13px;">Data Analysis / Dashboard project description goes here.</span>
+</td>
+<td align="center" style="background-color:#0A0A0A; border:1px solid #FF0000; border-radius:12px; padding:20px; width:280px;">
+<b style="color:#FF3B3B;">📈 Project Placeholder 2</b><br/><br/>
+<span style="color:#CCCCCC; font-size:13px;">SQL / Excel based analytics project description goes here.</span>
+</td>
+<td align="center" style="background-color:#0A0A0A; border:1px solid #FF0000; border-radius:12px; padding:20px; width:280px;">
+<b style="color:#FF3B3B;">🧮 Project Placeholder 3</b><br/><br/>
+<span style="color:#CCCCCC; font-size:13px;">Power BI / Tableau dashboard project description goes here.</span>
+</td>
+</tr>
+</table>
 
 </div>
 
-> **Note:** This snake animation requires a GitHub Action to generate automatically.
-
----
-
-# ☕ Fun Facts
-
-- 📊 I enjoy working with data and discovering meaningful insights.
-- 💡 I believe every dataset tells a story.
-- 🚀 Always learning something new.
-- 🎯 Working toward becoming a skilled Data Analyst.
-- 🌱 Open to internships and exciting projects.
-
----
-
-# ✨ Quote
+<br/>
 
 <div align="center">
 
-> ### **"Turning Data into Insights, Insights into Impact."**
+## 🎯 Goals for 2026
 
-</div>
+<table align="center">
+<tr><td style="background-color:#0A0A0A; border:1px solid #FF0000; border-radius:12px; padding:20px 40px;">
 
----
-
-# 📌 Visitor Reminder
-
-<div align="center">
-
-⭐ If you like my work, consider giving a **Star** to my repositories.
-
-🚀 Follow my journey as I grow into a Data Analyst.
-
-</div>
-
----
-
-# 🙌 Thanks for Visiting
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:3b82f6&height=120&section=footer"/>
-
-<h3>Thank you for visiting my GitHub Profile!</h3>
-
-<p>
-Keep Learning • Keep Building • Keep Growing 🚀
+<p align="left" style="color:#EAEAEA; font-size:15px; line-height:2;">
+✔️&nbsp; Master SQL<br/>
+✔️&nbsp; Become an Expert in Excel<br/>
+✔️&nbsp; Learn Power BI<br/>
+✔️&nbsp; Learn Tableau<br/>
+✔️&nbsp; Build Real-World Data Analytics Projects<br/>
+✔️&nbsp; Complete Data Analyst Portfolio<br/>
+✔️&nbsp; Secure a Data Analytics Internship
 </p>
 
+</td></tr>
+</table>
+
 </div>
 
----
+<br/>
+
+<div align="center">
+
+## 💭 Quote
+
+<h3 style="color:#FF3B3B; font-style:italic;">
+"Turning Data into Insights, Insights into Impact."
+</h3>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:0D0000&height=120&section=footer"/>
+
+<div align="center">
+<sub style="color:#AAAAAA;">Thanks for visiting my profile. Have a great day! 🚀</sub>
+</div>
