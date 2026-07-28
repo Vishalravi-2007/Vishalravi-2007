@@ -65,7 +65,7 @@ I'm **Vishal**, a Computer Science student who is passionate about **Data Analyt
 
 ### Data Analytics
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi ,tableau ,pandas ,numpy"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau,pandas,numpy"/>
 
 <br><br>
 
