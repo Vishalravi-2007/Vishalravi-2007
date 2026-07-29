@@ -25,7 +25,7 @@
 
 ### 👨‍💻 Hello!
 
-I'm **Vishal**, a Computer Science student who is passionate about **Data Analytics**.
+This is **Vishal**, a Computer Science student who is passionate about **Data Analytics**.
 
 🚀 My goal is to become a **Data Analyst** and solve real-world problems using data.
 
