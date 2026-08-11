@@ -207,8 +207,6 @@ I --> J[Machine Learning]
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3B0000,100:8B0000&height=120&section=footer"/>
-
 ### ⭐ Thanks for visiting my GitHub Profile ⭐
 
 ### 🚀 Keep Learning • Keep Building • Keep Growing 🚀
