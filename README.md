@@ -7,10 +7,10 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,35:061A40,70:0B4F8C,100:000000&text=VISHAL%20R&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20|%20Python%20|%20SQL%20|%20Power%20BI&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,35:3B0000,70:8B0000,100:000000&text=VISHAL%20R&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20|%20Python%20|%20SQL%20|%20Power%20BI&descAlignY=58&animation=fadeIn"/>
 
 <h1>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Hello+%F0%9F%91%8B+I'm+Vishal;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel;Learning+Power+BI+and+Tableau;Open+to+Internships;Building+Data+Projects+Every+Day"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=FF3131&center=true&vCenter=true&width=700&lines=Hello+%F0%9F%91%8B+I'm+Vishal;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel;Learning+Power+BI+and+Tableau;Open+to+Internships;Building+Data+Projects+Every+Day"/>
 </h1>
 
 </div>
@@ -73,11 +73,11 @@ This is **Vishal**, a Computer Science student who is passionate about **Data An
 
 <img src="https://skillicons.dev/icons?i=linux"/>
 
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-8B0000?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Data%20Analytics-0078D4?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-000000?style=for-the-badge&logo=databricks&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Business%20Intelligence-0B84F3?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-B22222?style=for-the-badge&logo=powerbi&logoColor=white"/>
 
 </div>
 
@@ -141,7 +141,7 @@ I --> J[Machine Learning]
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vishalravi-2007&theme=tokyo-night&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vishalravi-2007&bg_color=000000&color=FF3131&line=8B0000&point=FFFFFF&area_color=8B0000&hide_border=true"/>
 
 </div>
 
@@ -195,7 +195,7 @@ I --> J[Machine Learning]
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Vishalravi-2007&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Vishalravi-2007&label=PROFILE+VIEWS&color=8B0000&style=for-the-badge"/>
 
 <br><br>
 
@@ -207,7 +207,7 @@ I --> J[Machine Learning]
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:061A40,100:0B4F8C&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3B0000,100:8B0000&height=120&section=footer"/>
 
 ### ⭐ Thanks for visiting my GitHub Profile ⭐
 
