@@ -35,33 +35,7 @@
 
 ---
 
-## 🎨 Color Themes
 
-<div align="center">
-  
-  **Theme 1: Dark Red & Black**
-  
-  ![Dark Red](https://img.shields.io/badge/-DC143C-DC143C?style=flat-square) ![Black](https://img.shields.io/badge/-000000-000000?style=flat-square) ![Gold](https://img.shields.io/badge/-FFD700-FFD700?style=flat-square)
-  
-  **Theme 2: Neon Vibrant**
-  
-  ![Neon Pink](https://img.shields.io/badge/-FF006E-FF006E?style=flat-square) ![Neon Blue](https://img.shields.io/badge/-00D9FF-00D9FF?style=flat-square) ![Neon Green](https://img.shields.io/badge/-00FF00-00FF00?style=flat-square)
-  
-  **Theme 3: Ocean Blue**
-  
-  ![Ocean Blue](https://img.shields.io/badge/-0077BE-0077BE?style=flat-square) ![Cyan](https://img.shields.io/badge/-00D9FF-00D9FF?style=flat-square) ![Navy](https://img.shields.io/badge/-003B6F-003B6F?style=flat-square)
-  
-  **Theme 4: Purple Gradient**
-  
-  ![Purple](https://img.shields.io/badge/-9D4EDD-9D4EDD?style=flat-square) ![Violet](https://img.shields.io/badge/-7B2CBF-7B2CBF?style=flat-square) ![Lavender](https://img.shields.io/badge/-C77DFF-C77DFF?style=flat-square)
-  
-  **Theme 5: Sunset Orange**
-  
-  ![Orange](https://img.shields.io/badge/-FF6B35-FF6B35?style=flat-square) ![Red Orange](https://img.shields.io/badge/-F7931E-F7931E?style=flat-square) ![Gold](https://img.shields.io/badge/-FDB833-FDB833?style=flat-square)
-  
-  **Theme 6: Tropical Teal**
-  
-  ![Teal](https://img.shields.io/badge/-14B8A6-14B8A6?style=flat-square) ![Cyan Green](https://img.shields.io/badge/-06B6D4-06B6D4?style=flat-square) ![Mint](https://img.shields.io/badge/-34D399-34D399?style=flat-square)
 
 </div>
 
