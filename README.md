@@ -23,7 +23,7 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║  👨‍💻 Full Stack Developer  │  📊 Data Analyst  │  🎨 UI/UX Designer  ║
+║  👨‍💻 Full Stack Developer  │  📊Data Analyst- UI/UX Designer  ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
@@ -31,7 +31,7 @@
 - 📈 **Building:** Data-driven projects & Interactive web applications
 - 🎓 **Learning:** Power BI, Tableau, MongoDB, Modern Web Design
 - 💼 **Ready for:** Internships & Professional opportunities
-- 🌐 **Based in:** India
+  
 
 ---
 
@@ -111,7 +111,7 @@
 ```
 ┌─────────────────────────────────────────┐
 │  🔍 Learning Path - 2026                │
-├───────────────────────────────────────── ┤
+├─────────────────────────────────────────┤
 │  ✦ Power BI (Advanced Dashboards)       │
 │  ✦ Tableau (Data Visualization)         │
 │  ✦ MongoDB (NoSQL Mastery)              │
