@@ -46,7 +46,7 @@ Specialized in <strong>Data Analytics</strong> and <strong>Web Design</strong>
 
 ## 💻 Tech Stack
 
-### 🖥️ FRONTEND
+### 🖥️ Frontend
 
 <div>
 
@@ -56,7 +56,7 @@ Specialized in <strong>Data Analytics</strong> and <strong>Web Design</strong>
 
 </div>
 
-### 🔧 BACKEND
+### 🔧 Backend
 
 <div>
 
@@ -66,7 +66,7 @@ Specialized in <strong>Data Analytics</strong> and <strong>Web Design</strong>
 
 </div>
 
-### 📊 DATA & ANALYTICS
+### 📊 Data & analytics
 
 <div>
 
@@ -77,7 +77,7 @@ Specialized in <strong>Data Analytics</strong> and <strong>Web Design</strong>
 
 </div>
 
-### 🗄️ DATABASES
+### 🗄️ Databases
 
 <div>
 
@@ -86,7 +86,7 @@ Specialized in <strong>Data Analytics</strong> and <strong>Web Design</strong>
 
 </div>
 
-### ⚙️ TOOLS & PLATFORMS
+### ⚙️ Tools & Platforms
 
 <div>
 
@@ -108,7 +108,7 @@ Specialized in <strong>Data Analytics</strong> and <strong>Web Design</strong>
 <tr>
 <td align="center">
 
-**◀━━━ 📊 POWER BI ━━━━━━━━━━━━━━━━▶**
+**◀━━━ 📊 Power BI ━━━━━━━━━━━━━━━━▶**
 
 `Advanced Dashboards`
 
@@ -118,7 +118,7 @@ Specialized in <strong>Data Analytics</strong> and <strong>Web Design</strong>
 <tr>
 <td align="center">
 
-**◀━━━ 📈 TABLEAU ━━━━━━━━━━━━━━━━━▶**
+**◀━━━ 📈 Tableau ━━━━━━━━━━━━━━━━━▶**
 
 `Data Visualization`
 
@@ -128,7 +128,7 @@ Specialized in <strong>Data Analytics</strong> and <strong>Web Design</strong>
 <tr>
 <td align="center">
 
-**◀━━━ 🍃 MONGODB ━━━━━━━━━━━━━━━━━▶**
+**◀━━━ 🍃 MongoDB ━━━━━━━━━━━━━━━━━▶**
 
 `NoSQL Fundamentals`
 
@@ -138,7 +138,7 @@ Specialized in <strong>Data Analytics</strong> and <strong>Web Design</strong>
 <tr>
 <td align="center">
 
-**◀━━━ 🌐 WEB DESIGN ━━━━━━━━━━━━━━▶**
+**◀━━━ 🌐 Web Design ━━━━━━━━━━━━━━▶**
 
 `Modern Patterns`
 
@@ -148,7 +148,7 @@ Specialized in <strong>Data Analytics</strong> and <strong>Web Design</strong>
 <tr>
 <td align="center">
 
-**◀━━━ 🧠 DATA SCIENCE ━━━━━━━━━━━━▶**
+**◀━━━ 🧠 Data Science ━━━━━━━━━━━━▶**
 
 `Fundamentals`
 
@@ -158,7 +158,7 @@ Specialized in <strong>Data Analytics</strong> and <strong>Web Design</strong>
 <tr>
 <td align="center">
 
-**◀━━━ 🗄️ ADVANCED SQL ━━━━━━━━━━━━▶**
+**◀━━━ 🗄️ Advanced SQL ━━━━━━━━━━━━▶**
 
 `Query Optimization`
 
