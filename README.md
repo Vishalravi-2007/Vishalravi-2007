@@ -40,7 +40,7 @@ Specialized in <strong>Data Analytics</strong> and <strong>Web Design</strong>
 - 📈 **Building:** Data-driven projects & Interactive web applications
 - 🎓 **Learning:** Power BI, Tableau, MongoDB, Modern Web Design
 - 💼 **Ready for:** Internships & Professional opportunities
-- 🌐 **Based in:** India
+  
 
 ---
 
