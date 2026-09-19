@@ -55,11 +55,11 @@ I'm an aspiring **multi-role computer science engineer** passionate about data a
 
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vishal-ravichandran&theme=dark&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakNum=DC143C&sideNums=DC143C&sideLabels=DC143C&dates=808080)](https://github.com/vishal-ravichandran)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vishalravi-2007&theme=dark&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakNum=DC143C&sideNums=DC143C&sideLabels=DC143C&dates=808080)](https://github.com/vishal-ravichandran)
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishal-ravichandran&show_icons=true&theme=dark&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9&hide_border=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishalravi-2007&show_icons=true&theme=dark&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9&hide_border=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-ravichandran&layout=compact&theme=dark&bg_color=0D1117&title_color=DC143C&text_color=C9D1D9&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalravi-2007&layout=compact&theme=dark&bg_color=0D1117&title_color=DC143C&text_color=C9D1D9&hide_border=true)
 
 </div>
 
@@ -71,7 +71,7 @@ I'm an aspiring **multi-role computer science engineer** passionate about data a
   
   [![Email](https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravichandranvishal50@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-ravichandran-60654a3b6?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishal-ravichandran)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishalravi-2007)
 
 </div>
 
@@ -103,7 +103,7 @@ Continuous Learning → Always exploring new technologies
   
   ### ⭐ If you find my work interesting, feel free to star my repositories!
   
-  <img src="https://komarev.com/ghpvc/?username=vishal-ravichandran&style=flat-square&color=DC143C" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Vishalravi-2007&style=flat-square&color=DC143C" alt="Profile views" />
   
 </div>
 
