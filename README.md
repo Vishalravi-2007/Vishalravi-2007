@@ -176,9 +176,6 @@ Specialized in <strong>Data Analytics</strong> and <strong>Web Design</strong>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Vishalravi-2007&theme=dark&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakNum=DC143C&sideNums=DC143C&sideLabels=DC143C&dates=808080" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vishalravi-2007&show_icons=true&theme=dark&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9&hide_border=true&card_width=400" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalravi-2007&layout=compact&theme=dark&bg_color=0D1117&title_color=DC143C&text_color=C9D1D9&hide_border=true" alt="Top Languages" />
 
 </div>
 
