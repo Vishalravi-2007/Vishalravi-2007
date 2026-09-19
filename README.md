@@ -1,214 +1,112 @@
-<!-- ===========================================================
-     GitHub Profile README
-     Username : Vishalravi-2007
-     Save this as README.md
-=========================================================== -->
+# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> Hi, I'm Vishal
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=28&duration=4000&pause=1000&color=DC143C&center=true&vCenter=true&width=800&lines=Multi-Role+Computer+Science+Engineer;Data+Analytics+%7C+Web+Design+Enthusiast;Building+Data-Driven+Solutions" alt="Typing SVG" />
+</div>
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,35:3B0000,70:8B0000,100:000000&text=VISHAL%20R&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20|%20Python%20|%20SQL%20|%20Power%20BI&descAlignY=58&animation=fadeIn"/>
+---
 
-<h1>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=FF3131&center=true&vCenter=true&width=700&lines=Hello+%F0%9F%91%8B+I'm+Vishal;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel;Learning+Power+BI+and+Tableau;Open+to+Internships;Building+Data+Projects+Every+Day"/>
-</h1>
+## 👨‍💻 About Me
+
+I'm an aspiring **multi-role computer science engineer** passionate about data analytics and web design. I love exploring diverse areas of computer science and building meaningful data-driven projects. My goal is to create impactful solutions that combine technical expertise with analytical insights.
+
+- 🎯 **Career Goal:** Become a versatile tech professional in data analytics and web development
+- 💼 **Current Status:** Open to internship opportunities
+- 🔍 **Focus Areas:** Data Analytics, Web Design, Database Management
+- 🌱 **Always Learning:** New technologies and best practices
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+</div>
+
+### Databases
+<div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB (Learning)" />
+</div>
+
+### Tools & Platforms
+<div>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+---
+
+## 📚 Currently Learning
+
+- 🎓 **Power BI** - Business intelligence and data visualization
+- 📊 **Tableau** - Advanced analytics and dashboard creation
+- 🗄️ **MongoDB** - NoSQL database management
+- 🌐 **Web Design** - Frontend and UX principles
+
+---
+
+## 🔥 My GitHub Stats
+
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vishal-ravichandran&theme=dark&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakNum=DC143C&sideNums=DC143C&sideLabels=DC143C&dates=808080)](https://github.com/vishal-ravichandran)
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishal-ravichandran&show_icons=true&theme=dark&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-ravichandran&layout=compact&theme=dark&bg_color=0D1117&title_color=DC143C&text_color=C9D1D9&hide_border=true)
 
 </div>
 
 ---
 
-#  About Me
-
-<table>
-<tr>
-<td width="65%">
-
-### 👨‍💻 Hello!
-
-This is **Vishal**, a Computer Science student who is passionate about **Data Analytics**.
-
-🚀 My goal is to become a **Data Analyst** and solve real-world problems using data.
-
-### 🌟 Currently
-
-- 📊 Learning **Power BI**
-- 📈 Learning **Tableau**
-- 🐍 Improving **Python**
-- 🗄️ Practicing **SQL**
-- 📑 Working with **Excel**
-- 💼 Looking for **Data Analytics Internships**
-- 📚 Exploring new technologies
-- 🚀 Building Data Analytics Projects
-- 💡 Learning something new every day
-
-</td>
-
-<td align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Q2eW1vM2JkNjA2c2NkNmJ3NGRkN2h3ZmRtdzRzOXV6b2N0M2M4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="260"/>
-
-</td>
-</tr>
-</table>
-
----
-
-# 🚀 Tech Stack
+## 📫 Connect With Me
 
 <div align="center">
-
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql,git,github,vscode"/>
-
-<br><br>
-
-### Data Analytics
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau,pandas,numpy"/>
-
-<br><br>
-
-### Other Skills
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://img.shields.io/badge/Microsoft%20Excel-8B0000?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Data%20Analytics-000000?style=for-the-badge&logo=databricks&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Business%20Intelligence-B22222?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  
+  [![Email](https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravichandranvishal50@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-ravichandran-60654a3b6?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishal-ravichandran)
 
 </div>
 
 ---
 
-# 📚 Currently Learning
+## 🎯 What I'm Working On
 
-<div align="center">
-
-| Learning | Progress |
-|----------|----------|
-| 🐍 Python | ██████████░░ |
-| 🗄 SQL | █████████░░░ |
-| 📊 Power BI | ████████░░░░ |
-| 📈 Tableau | ███████░░░░░ |
-| 📑 Excel | ███████████░ |
-
-</div>
+- 📊 Building data analytics projects with Python and SQL
+- 🎨 Creating interactive dashboards with Power BI & Tableau
+- 💾 Exploring database design and optimization
+- 🌐 Learning modern web design principles
+- 🚀 Developing a strong portfolio for data analyst roles
 
 ---
 
-# 🎯 Career Goal
+## 💡 My Interests
 
-```text
-🎯 Become a Professional Data Analyst
-
-✔ Python
-✔ SQL
-✔ Excel
-✔ Power BI
-✔ Tableau
-
-➡ Build 50+ Data Analytics Projects
-➡ Gain Internship Experience
-➡ Learn Advanced Analytics
-➡ Work with Real-world Data
-➡ Keep Exploring New Technologies
+```
+Data Analytics    → Data visualization, Business Intelligence, Data Science
+Web Design        → UI/UX, Frontend Development, User Experience
+Databases         → SQL & NoSQL, Data Modeling, Optimization
+Problem Solving   → Algorithms, Data Structures, System Design
+Continuous Learning → Always exploring new technologies
 ```
 
 ---
 
-
-# 📊 Data Analytics Roadmap
-
-```mermaid
-graph LR
-A[Excel] --> B[SQL]
-B --> C[Python]
-C --> D[Pandas]
-D --> E[Numpy]
-E --> F[Data Cleaning]
-F --> G[Visualization]
-G --> H[Power BI]
-H --> I[Tableau]
-I --> J[Machine Learning]
-```
-
----
-
-# 📊 Contribution Graph
-
 <div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vishalravi-2007&bg_color=000000&color=FF3131&line=8B0000&point=FFFFFF&area_color=8B0000&hide_border=true"/>
-
+  
+  ### ⭐ If you find my work interesting, feel free to star my repositories!
+  
+  <img src="https://komarev.com/ghpvc/?username=vishal-ravichandran&style=flat-square&color=DC143C" alt="Profile views" />
+  
 </div>
 
 ---
 
-# 📌 Featured Technologies
-
-<div align="center">
-
-<img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=true"/>
-
-<img src="https://readme-components.vercel.app/api?component=logo&logo=mysql&text=true"/>
-
-<img src="https://readme-components.vercel.app/api?component=logo&logo=git&text=true"/>
-
-<img src="https://readme-components.vercel.app/api?component=logo&logo=github&text=true"/>
-
-</div>
-
----
-
-# 📊 Data Analytics Animation
-
-<div align="center">
-
-<img width="320" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
-
-<img width="320" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"/>
-
-<br><br>
-
-<img width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-<img width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-</div>
-
----
-
-# 💻 Favorite Quote
-
-<div align="center">
-
-> ### "Without data, you're just another person with an opinion."
-
-</div>
-
----
-
-# 🌌 Visitor Counter
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Vishalravi-2007&label=PROFILE+VIEWS&color=8B0000&style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://count.getloli.com/get/@Vishalravi-2007?theme=gelbooru"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my GitHub Profile ⭐
-
-### 🚀 Keep Learning • Keep Building • Keep Growing 🚀
-
-</div>
+*Last updated: 2026* | Made with ❤️ by Vishal
