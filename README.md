@@ -1,14 +1,14 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800&family=Fira+Code:wght@400;500&family=Orbitron:wght@400;700;900&display=swap" rel="stylesheet">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=48&duration=3000&pause=500&color=DC143C&center=true&vCenter=true&width=900&lines=VISHAL+%7C+Vishalravi-2007;Multi-Role+Engineer;Full+Stack+%26+Data+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=48&duration=3000&pause=500&color=DC143C&center=true&vCenter=true&width=900&lines=VISHAL;Multi-Role+Engineer;Full+Stack+%26+Data+Analyst" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/👨%E2%80%8D%F0%9F%92%BB-Developer-DC143C?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/📊-Data%20Analyst-DC143C?style=for-the-badge&logo=analytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/🎨-Web%20Designer-black?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/🚀-Open%20to%20Internships-DC143C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📊-Data%20Analyst-FF6B6B?style=for-the-badge&logo=analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎨-Web%20Designer-4ECDC4?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀-Open%20to%20Internships-00D4FF?style=for-the-badge" />
 </div>
 
 ---
@@ -35,12 +35,34 @@
 
 ---
 
-## 🎨 Color Palette & Design
+## 🎨 Color Themes
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Primary-DC143C-DC143C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Secondary-000000-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Accent-FFD700-FFD700?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tertiary-1E90FF-1E90FF?style=flat-square" />
+  
+  **Theme 1: Dark Red & Black**
+  
+  ![Dark Red](https://img.shields.io/badge/-DC143C-DC143C?style=flat-square) ![Black](https://img.shields.io/badge/-000000-000000?style=flat-square) ![Gold](https://img.shields.io/badge/-FFD700-FFD700?style=flat-square)
+  
+  **Theme 2: Neon Vibrant**
+  
+  ![Neon Pink](https://img.shields.io/badge/-FF006E-FF006E?style=flat-square) ![Neon Blue](https://img.shields.io/badge/-00D9FF-00D9FF?style=flat-square) ![Neon Green](https://img.shields.io/badge/-00FF00-00FF00?style=flat-square)
+  
+  **Theme 3: Ocean Blue**
+  
+  ![Ocean Blue](https://img.shields.io/badge/-0077BE-0077BE?style=flat-square) ![Cyan](https://img.shields.io/badge/-00D9FF-00D9FF?style=flat-square) ![Navy](https://img.shields.io/badge/-003B6F-003B6F?style=flat-square)
+  
+  **Theme 4: Purple Gradient**
+  
+  ![Purple](https://img.shields.io/badge/-9D4EDD-9D4EDD?style=flat-square) ![Violet](https://img.shields.io/badge/-7B2CBF-7B2CBF?style=flat-square) ![Lavender](https://img.shields.io/badge/-C77DFF-C77DFF?style=flat-square)
+  
+  **Theme 5: Sunset Orange**
+  
+  ![Orange](https://img.shields.io/badge/-FF6B35-FF6B35?style=flat-square) ![Red Orange](https://img.shields.io/badge/-F7931E-F7931E?style=flat-square) ![Gold](https://img.shields.io/badge/-FDB833-FDB833?style=flat-square)
+  
+  **Theme 6: Tropical Teal**
+  
+  ![Teal](https://img.shields.io/badge/-14B8A6-14B8A6?style=flat-square) ![Cyan Green](https://img.shields.io/badge/-06B6D4-06B6D4?style=flat-square) ![Mint](https://img.shields.io/badge/-34D399-34D399?style=flat-square)
+
 </div>
 
 ---
@@ -51,8 +73,7 @@
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX" />
 </div>
 
 ### 🔧 BACKEND
@@ -60,7 +81,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </div>
 
 ### 📊 DATA & ANALYTICS
@@ -75,7 +95,6 @@
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 
 ### ⚙️ TOOLS & PLATFORMS
@@ -83,7 +102,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
 ---
@@ -92,14 +110,14 @@
 
 ```
 ┌─────────────────────────────────────────┐
-│  🔍 Learning Path - 2026               │
-├─────────────────────────────────────────┤
-│  ✦ Power BI (Advanced Dashboards)      │
-│  ✦ Tableau (Data Visualization)        │
-│  ✦ MongoDB (NoSQL Mastery)             │
-│  ✦ React.js (Frontend Excellence)      │
-│  ✦ Web Design & UX Principles          │
-│  ✦ Machine Learning Basics             │
+│  🔍 Learning Path - 2026                │
+├───────────────────────────────────────── ┤
+│  ✦ Power BI (Advanced Dashboards)       │
+│  ✦ Tableau (Data Visualization)         │
+│  ✦ MongoDB (NoSQL Mastery)              │
+│  ✦ Modern Web Design Patterns           │
+│  ✦ Data Science Fundamentals            │
+│  ✦ Advanced SQL & Optimization          │
 └─────────────────────────────────────────┘
 ```
 
@@ -151,7 +169,6 @@
   [![Email](https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravichandranvishal50@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-ravichandran-60654a3b6?utm_source=share_via&utm_content=profile&utm_medium=member_android)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishalravi-2007)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://yourportfolio.com)
 
 </div>
 
@@ -162,21 +179,21 @@
 ```
 ┌────────────────────────────────────────────────────────────┐
 │ DATA ANALYTICS                                             │
-│ ├─ Data Visualization & BI Tools                          │
-│ ├─ Statistical Analysis & Insights                        │
-│ └─ Business Intelligence Solutions                        │
+│ ├─ Data Visualization & BI Tools                           │
+│ ├─ Statistical Analysis & Insights                         │
+│ └─ Business Intelligence Solutions                         │
 │                                                            │
-│ WEB DESIGN & DEVELOPMENT                                  │
-│ ├─ Frontend Technologies (HTML, CSS, JS, React)          │
-│ ├─ Backend Systems (Python, Java, Node.js)               │
-│ ├─ Database Management (SQL & NoSQL)                     │
-│ └─ UI/UX Design Principles                               │
+│ WEB DESIGN & DEVELOPMENT                                   │
+│ ├─ Frontend Technologies (HTML, CSS)                       │
+│ ├─ Backend Systems (Python, Java, C)                       │
+│ ├─ Database Management (SQL & NoSQL)                       │ 
+│ └─ UI/UX Design Principles                                 │
 │                                                            │
-│ COMPUTER SCIENCE                                          │
-│ ├─ Algorithms & Data Structures                          │
-│ ├─ System Design                                         │
-│ ├─ Cloud Computing                                       │
-│ └─ Continuous Learning                                  │
+│ COMPUTER SCIENCE                                           │
+│ ├─ Algorithms & Data Structures                            │
+│ ├─ System Design                                           │
+│ ├─ Cloud Computing                                         │
+│ └─ Continuous Learning                                     │
 └────────────────────────────────────────────────────────────┘
 ```
 
@@ -205,12 +222,11 @@
 ---
 
 <div align="center">
-  <p><strong>Made with ❤️ & ☕ by Vishal</strong></p>
-  <p><em>Last Updated: September 2026 | Keep Learning, Keep Building 🚀</em></p>
+  
+  ```
+  ╔══════════════════════════════════════════════════════════╗
+  ║           Dream Big • Code Hard • Ship Fast              ║
+  ╚══════════════════════════════════════════════════════════╝
+  ```
+  
 </div>
-
-```
-╔══════════════════════════════════════════════════════════╗
-║           Dream Big • Code Hard • Ship Fast              ║
-╚══════════════════════════════════════════════════════════╝
-```
