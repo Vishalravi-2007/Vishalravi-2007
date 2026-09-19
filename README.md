@@ -1,14 +1,14 @@
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800&family=Fira+Code:wght@400;500&family=Orbitron:wght@400;700;900&display=swap" rel="stylesheet">
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=48&duration=3000&pause=500&color=DC143C&center=true&vCenter=true&width=900&lines=VISHAL;Multi-Role+Engineer;Full+Stack+%26+Data+Analyst" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/👨%E2%80%8D%F0%9F%92%BB-Developer-DC143C?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/📊-Data%20Analyst-FF6B6B?style=for-the-badge&logo=analytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/🎨-Web%20Designer-4ECDC4?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/🚀-Open%20to%20Internships-00D4FF?style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=48&duration=3000&pause=500&color=DC143C&center=true&vCenter=true&width=900&lines=Hi!+This+is+Vishal;Multi-Role+Computer+Science+Engineer;Full+Stack+%26+Data+Analyst" alt="Typing SVG" />
+
+<br>
+
+<img src="https://img.shields.io/badge/👨%E2%80%8D%F0%9F%92%BB-Developer-DC143C?style=for-the-badge&logo=github&logoColor=white" alt="Developer" />
+<img src="https://img.shields.io/badge/📊-Data%20Analyst-FF6B6B?style=for-the-badge&logo=analytics&logoColor=white" alt="Data Analyst" />
+<img src="https://img.shields.io/badge/🎨-Web%20Designer-4ECDC4?style=for-the-badge&logo=figma&logoColor=white" alt="Web Designer" />
+<img src="https://img.shields.io/badge/🚀-Open%20to%20Internships-00D4FF?style=for-the-badge" alt="Open to Internships" />
+
 </div>
 
 ---
@@ -16,96 +16,169 @@
 ## 🎯 About Me
 
 <div align="center">
-  <p><strong>🌟 Multi-Role Computer Science Engineer 🌟</strong></p>
-  <p>Passionate about building scalable solutions using <strong>Frontend</strong> & <strong>Backend</strong> technologies</p>
-  <p>Specialized in <strong>Data Analytics</strong> and <strong>Web Design</strong></p>
+
+<p><strong>🌟 Multi-Role Computer Science Engineer 🌟</strong></p>
+
+<p>
+Passionate about building scalable solutions using
+<strong>Frontend</strong> & <strong>Backend</strong> technologies
+</p>
+
+<p>
+Specialized in <strong>Data Analytics</strong> and <strong>Web Design</strong>
+</p>
+
 </div>
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  👨‍💻 Full Stack Developer  │  📊Data Analyst- UI/UX Designer  ║
-╚═══════════════════════════════════════════════════════════════╝
+```text
+╔════════════════════════════════════════════════════════════════════╗
+ ║  👨‍💻 Full Stack Developer │ 📊 Data Analyst │ 🎨 UI/UX Designer  ║
+╚════════════════════════════════════════════════════════════════════╝
 ```
 
 - 🔥 **Exploring:** Frontend, Backend, Databases, Data Science
 - 📈 **Building:** Data-driven projects & Interactive web applications
 - 🎓 **Learning:** Power BI, Tableau, MongoDB, Modern Web Design
 - 💼 **Ready for:** Internships & Professional opportunities
-  
-
----
-
-
-
-</div>
+- 🌐 **Based in:** India
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🖥️ FRONTEND
+
 <div>
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX" />
+
+<img src="https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/UI%2FUX-Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX" />
+
 </div>
 
 ### 🔧 BACKEND
+
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+
 </div>
 
 ### 📊 DATA & ANALYTICS
+
 <div>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+
 </div>
 
 ### 🗄️ DATABASES
+
 <div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
 </div>
 
 ### ⚙️ TOOLS & PLATFORMS
+
 <div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+
 </div>
 
 ---
 
 ## 🎓 Currently Learning
 
-```
-┌─────────────────────────────────────────┐
-│  🔍 Learning Path - 2026                │
-├─────────────────────────────────────────┤
-│  ✦ Power BI (Advanced Dashboards)       │
-│  ✦ Tableau (Data Visualization)         │
-│  ✦ MongoDB (NoSQL Mastery)              │
-│  ✦ Modern Web Design Patterns           │
-│  ✦ Data Science Fundamentals            │
-│  ✦ Advanced SQL & Optimization          │
-└─────────────────────────────────────────┘
-```
+<div align="center">
+
+### 🔄 Learning Path — 2026
+
+<table>
+<tr>
+<td align="center">
+
+**◀━━━ 📊 POWER BI ━━━━━━━━━━━━━━━━▶**
+
+`Advanced Dashboards`
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+**◀━━━ 📈 TABLEAU ━━━━━━━━━━━━━━━━━▶**
+
+`Data Visualization`
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+**◀━━━ 🍃 MONGODB ━━━━━━━━━━━━━━━━━▶**
+
+`NoSQL Fundamentals`
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+**◀━━━ 🌐 WEB DESIGN ━━━━━━━━━━━━━━▶**
+
+`Modern Patterns`
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+**◀━━━ 🧠 DATA SCIENCE ━━━━━━━━━━━━▶**
+
+`Fundamentals`
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+**◀━━━ 🗄️ ADVANCED SQL ━━━━━━━━━━━━▶**
+
+`Query Optimization`
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## 🔥 GitHub Statistics
 
 <div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vishalravi-2007&theme=dark&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakNum=DC143C&sideNums=DC143C&sideLabels=DC143C&dates=808080)](https://github.com/Vishalravi-2007)
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishalravi-2007&show_icons=true&theme=dark&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9&hide_border=true&card_width=400)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalravi-2007&layout=compact&theme=dark&bg_color=0D1117&title_color=DC143C&text_color=C9D1D9&hide_border=true)
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Vishalravi-2007&theme=dark&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakNum=DC143C&sideNums=DC143C&sideLabels=DC143C&dates=808080" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vishalravi-2007&show_icons=true&theme=dark&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9&hide_border=true&card_width=400" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalravi-2007&layout=compact&theme=dark&bg_color=0D1117&title_color=DC143C&text_color=C9D1D9&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -113,15 +186,15 @@
 
 ## 🎯 Featured Projects
 
-```
-📌 Data Analytics Projects
+```text
+📌 DATA ANALYTICS PROJECTS
    └─ Dashboard Development with Power BI & Tableau
-   
-📌 Web Development Projects
+
+📌 WEB DEVELOPMENT PROJECTS
    └─ Full Stack Applications (Frontend + Backend)
-   
-📌 Database Projects
-   └─ SQL & NoSQL Optimization & Design
+
+📌 DATABASE PROJECTS
+   └─ SQL & NoSQL Database Design
 ```
 
 ---
@@ -130,7 +203,7 @@
 
 - 📊 **Advanced Analytics:** Interactive dashboards & data visualizations
 - 🌐 **Web Applications:** Responsive & scalable full-stack solutions
-- 💾 **Database Systems:** Optimized data models & queries
+- 💾 **Database Systems:** Data models & optimized queries
 - 🤖 **Problem Solving:** Algorithms, Data Structures & System Design
 - 🎨 **UI/UX Design:** Modern interfaces with excellent user experience
 
@@ -139,10 +212,18 @@
 ## 📫 Connect With Me
 
 <div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravichandranvishal50@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-ravichandran-60654a3b6?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishalravi-2007)
+
+<a href="mailto:ravichandranvishal50@gmail.com">
+<img src="https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://www.linkedin.com/in/vishal-ravichandran-60654a3b6/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/Vishalravi-2007">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
@@ -150,57 +231,57 @@
 
 ## 📈 My Interests
 
-```
-┌────────────────────────────────────────────────────────────┐
-│ DATA ANALYTICS                                             │
-│ ├─ Data Visualization & BI Tools                           │
-│ ├─ Statistical Analysis & Insights                         │
-│ └─ Business Intelligence Solutions                         │
-│                                                            │
-│ WEB DESIGN & DEVELOPMENT                                   │
-│ ├─ Frontend Technologies (HTML, CSS)                       │
-│ ├─ Backend Systems (Python, Java, C)                       │
-│ ├─ Database Management (SQL & NoSQL)                       │ 
-│ └─ UI/UX Design Principles                                 │
-│                                                            │
-│ COMPUTER SCIENCE                                           │
-│ ├─ Algorithms & Data Structures                            │
-│ ├─ System Design                                           │
-│ ├─ Cloud Computing                                         │
-│ └─ Continuous Learning                                     │
-└────────────────────────────────────────────────────────────┘
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ DATA ANALYTICS                                               │
+│ ├─ Data Visualization & BI Tools                             │
+│ ├─ Statistical Analysis & Insights                           │
+│ └─ Business Intelligence Solutions                           │
+│                                                              │
+│ WEB DESIGN & DEVELOPMENT                                     │
+│ ├─ Frontend Technologies (HTML, CSS)                         │
+│ ├─ Backend Systems (Python, Java, C)                         │
+│ ├─ Database Management (SQL & NoSQL)                         │
+│ └─ UI/UX Design Principles                                   │
+│                                                              │
+│ COMPUTER SCIENCE                                             │
+│ ├─ Algorithms & Data Structures                              │
+│ ├─ System Design                                             │
+│ ├─ Cloud Computing                                           │
+│ └─ Continuous Learning                                       │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 <div align="center">
-  
-  ### ✨ "Code is Poetry, Data is Truth" ✨
-  
-  <img src="https://komarev.com/ghpvc/?username=Vishalravi-2007&style=flat-square&color=DC143C" alt="Profile views" />
-  
-  ![Typing Speed Badge](https://img.shields.io/badge/Typing%20Speed-Code%20Quality-DC143C?style=flat-square)
-  
+
+### ✨ "Code is Poetry, Data is Truth" ✨
+
+<img src="https://komarev.com/ghpvc/?username=Vishalravi-2007&style=flat-square&color=DC143C" alt="Profile views" />
+
+<img src="https://img.shields.io/badge/Typing%20Speed-Code%20Quality-DC143C?style=flat-square" alt="Typing Speed Badge" />
+
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 🎁 If you find my work interesting, consider starring my repositories! ⭐
 
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Vishalravi-2007?style=social">
-  
+### 🎁 If you find my work interesting, consider starring my repositories! ⭐
+
+<img src="https://img.shields.io/github/followers/Vishalravi-2007?style=social" alt="GitHub Followers" />
+
 </div>
 
 ---
 
 <div align="center">
-  
-  ```
-  ╔══════════════════════════════════════════════════════════╗
-  ║           Dream Big • Code Hard • Ship Fast              ║
-  ╚══════════════════════════════════════════════════════════╝
-  ```
-  
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║             Dream Big • Code Hard • Ship Fast            ║
+╚══════════════════════════════════════════════════════════╝
+```
+
 </div>
